@@ -1,0 +1,13 @@
+
+.idea/
+avro-consumer/avro-consumer.iml
+avro-consumer/target/
+avro-producer/avro-producer.iml
+avro-producer/target/
+kafka-consumer/kafka-consumer.iml
+kafka-consumer/target/
+kafka-examples.iml
+kafka-producer/kafka-producer.iml
+kafka-producer/target/
+kafka-streams/kafka-streams.iml
+
