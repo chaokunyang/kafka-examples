@@ -14,6 +14,7 @@
         <module>kafka-streams</module>
         <module>avro-producer</module>
         <module>avro-consumer</module>
+        <module>schema-registry</module>
     </modules>
 
 
